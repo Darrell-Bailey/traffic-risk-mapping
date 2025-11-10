@@ -1,0 +1,11 @@
+pandas
+geopandas
+shapely
+fiona
+pyproj
+jupyterlab
+folium
+scikit-learn
+matplotlib
+notebook
+tqdm

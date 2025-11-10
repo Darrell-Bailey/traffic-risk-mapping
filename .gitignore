@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+
+# Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+
+# Data (large files)
+*.csv
+*.xlsx
+
+# Env
+.venv/
+.envdata/*.csv
